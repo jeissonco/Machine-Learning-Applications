@@ -1,10 +1,5 @@
 # Automated Fruit Classification System
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
-![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow%20%2F%20Keras-orange?style=flat&logo=tensorflow)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![Accuracy](https://img.shields.io/badge/Test_Accuracy-99.85%25-brightgreen)
-
 ## Project Overview
 
 This project focuses on developing a **Computer Vision system** to assist local farmers in automating the sorting of produce. Manual classification is time-consuming and prone to human error. By leveraging Deep Learning, specifically **Convolutional Neural Networks (CNNs)**, this system identifies different fruit varieties with high precision, enabling efficient pallet stacking and inventory management.
@@ -53,12 +48,12 @@ The model was evaluated on unseen test data with the following results:
 ### Learning Curves
 *The model demonstrates stable learning with validation metrics closely tracking training metrics, indicating no significant overfitting.*
 
-![Add your Learning Curves Image Here](path/to/your/learning_curves.png)
+!Machine-Learning-Applications/learning curves.png
 
 ### Confusion Matrix
 *The system shows distinct separation between classes, with negligible confusion even among visually similar fruits.*
 
-!(path/to/your/confusion_matrix.png)
+!Machine-Learning-Applications/confusion matrix.png
 
 ## Installation & Usage
 
