@@ -1,4 +1,4 @@
-# 🍎 Automated Fruit Classification System
+# Automated Fruit Classification System
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
 ![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow%20%2F%20Keras-orange?style=flat&logo=tensorflow)
